@@ -1,0 +1,13 @@
+body  {
+  font-family: 'Play', sans-serif;
+  text-align: center;
+  font-color: white;
+
+  background-image: url(vertline.jpg);
+  background-size: cover;
+}
+
+img {
+  float: left;
+  padding-right: 10px;
+}
